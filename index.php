@@ -1,1 +1,1 @@
-<?php include_once('theme');?>
+<?php include_once('index.html');?>
